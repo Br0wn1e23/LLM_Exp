@@ -1,2 +1,2 @@
-# SA_VAD_Exp
-Some small scale experimentation with different architectures
+# LLM_Exp
+Comparing different techniques to improve text categorization
