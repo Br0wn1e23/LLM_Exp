@@ -5,5 +5,5 @@ fine_tuned/
 audio.wav
 enhanced_audio.wav
 Simulationen/
-
+best_autoencoder.pth
 
