@@ -1,0 +1,867 @@
+Speaker,Sentence,Senti_Score
+P1,Wer ist Pink?,0
+P2,Bin beschäftigt!,0
+P1,"Okay, dann warte ich erstmal, ich bin bei dem Grünen draußen.",0
+P3,"Und wenn du wieder, wenn du wieder rein kommst, hier links da, hier.",0.8
+P2,"Wie war, wo war der?",0
+P1,"Lara, du bist Pink.",0.5
+P2,"Ne, ich bin Pink!",-0.8
+P1,"Ah, Simone?",0
+P1,Ich bin draußen bei dem Grünen.,-0.7
+P1,"Ich bin jetzt ready, Lila.",0
+P4,Einmal zu Rosa raus.,-0.5
+P3,"Ah, du bist Rosa, P4?",0.95
+P4,"Ja, genau, aber ich muss erst mal schauen, wo der Zielpunkt ist.",0
+P1,"Ich bin draußen und steh bei dem Grünen, aber es tut sich nichts.",0
+P1,Was soll ich jetzt tun?,0
+P3,"Warte, ich komm mal zu dir.",0.7
+P3,"Vielleicht hilft’s, wenn wir zusammen schauen.",0.5
+P2,"Ah, ich hab’s!",1
+P2,"Ich bin bei Pink, aber ich weiß nicht, wohin jetzt damit.",-0.2
+P4,Wo war der Zielpunkt für Rosa nochmal?,0
+P1,"Ich hab den Grünen hier draußen, aber keiner kann ihn sehen.",-0.3
+P2,"Ich bin bei Pink, aber ich seh den Zielpunkt nicht.",-0.5
+P3,"Warten, wir müssen erstmal den Grünen finden, wenn wir das klären können!",-0.5
+P1,"Okay, also grüner Punkt, du bleibst bei mir.",0.8
+P2,"Und ich bleib bei Pink, ich hoffe, das hilft.",0.8
+P3,Ich seh leider keine der Farben!,-0.8
+P3,Nur Blau.,-0.5
+P4,"Ich kann nur Rosa und Blau sehen, aber es gibt so viele Punkte!",0.8
+P2,Ich warte noch bei Pink.,0
+P2,"Es könnte helfen, wenn jemand anderes den Zielpunkt sieht.",0.5
+P1,"Ahh, ich hab’s!",0.95
+P1,Der Zielpunkt für Grün ist da hinten bei der Wand.,0
+P1,Ich geh jetzt hin.,0
+P3,"Ich lauf mal zu dir, P1, damit ich dir helfe.",0.8
+P4,"Oh, Rosa ist auch hier, also bleib mal bei mir, P2.",0.8
+P1,"Ich steh jetzt beim grünen Zielpunkt, was muss ich tun?",-0.3
+P3,"Einfach mal drauf gehen, es könnte der richtige Punkt sein!",0.5
+P4,"Ich hab Rosa abgelegt, was passiert jetzt?",0
+P2,"Ich seh keinen Fortschritt bei Pink, aber vielleicht ist der Punkt noch nicht da.",0
+P1,"Okay, das Grüne ist jetzt am richtigen Punkt.",0
+P1,Was brauchen wir als Nächstes?,0
+P4,"Ich hab Rosa, jetzt muss ich noch das Ziel finden!",0.2
+P2,"Ich geh jetzt zu Blau, mal sehen, ob das hilft.",0.2
+P3,Ich bin bei Blau und warte auf Anweisungen.,0
+P1,"Ich komm zu Blau, ich seh’s jetzt!",1
+P1,Was genau muss ich hier tun?,0.2
+P2,"Du musst drauf gehen, P1, der Punkt ist hier!",0.5
+P3,Ich kann nichts mehr sehen!,-0.9
+P3,Es ist so viel Chaos hier.,-0.8
+P4,"Das geht uns allen so, aber wenn wir jetzt weiter fokussiert bleiben, schaffen wir’s.",0.8
+P1,Wer ist bei Lila?,0
+P1,"Wir brauchen dringend Lila, sonst geht nichts voran.",0.8
+P3,"Ich bin bei Lila, aber keine Ahnung, wohin es muss!",-0.5
+P1,Ich bin auch bei Lila.,0.5
+P1,Vielleicht müssen wir zusammen nach dem Zielpunkt suchen.,0.8
+P2,"Ich bleib bei Pink, vielleicht hilft es später.",0.5
+P1,Wieviel haben wir noch?,0
+P5,Keine Ahnung.,0
+P3,Es fehlen noch 4 Würfel.,-0.5
+P2,"Frank, du warst Gelb?",0
+P5,"Ja, was?",0.5
+P5,Siehst du welche?,0
+P2,"Nein, aber wir brauchen noch welche.",-0.3
+P2,Sieht jemand?,0
+P1,"Ich seh gerade nichts, außer Blau.",0.2
+P1,Kann mir jemand helfen?,1
+P3,"Ich hab Blau, aber keine Ahnung, wohin damit.",-0.5
+P2,"Wir brauchen Gelb, hat jemand Gelb gesehen?",0
+P5,"Ich dachte, ich hab Gelb, aber ich seh grad keinen Gelben mehr.",-0.7
+P1,"Ich bin bei Blau, aber ich glaub, ich hab den Punkt verpasst.",0.7
+P2,"Ah, ich hab einen Gelben gesehen!",0.8
+P2,Der ist hier bei mir.,-0.2
+P3,Du hast einen Gelben?,0
+P3,Wo genau?,-0.2
+P3,Ich seh nur Blau und Grün.,0
+P1,Ich seh einen Grünen hier.,0
+P1,Sollte der vielleicht zum Ziel?,-0.2
+P5,Grün gehört zu mir!,0.6
+P5,"Warte, ich korrigiere das.",0.5
+P2,"Frank, wo bist du mit Gelb?",0
+P5,"Ich bin noch am gleichen Punkt, aber ich kann den Zielpunkt für Gelb nicht finden.",-0.7
+P3,Vielleicht musst du ein Stück weiter gehen.,0
+P3,Versuch mal hier links!,0.7
+P1,"Warte, ich hab auch noch einen Grünen hier, aber keine Ahnung, was ich damit tun soll.",-0.5
+P2,"Es fehlen noch 4 Würfel, richtig?",0
+P2,Wir müssen uns beeilen.,0
+P5,"Ja, genau.",1
+P5,"Ich hab einen Gelben jetzt am Zielpunkt, aber wo sind die anderen?",-0.3
+P1,"Ich bringe den Grünen jetzt zum Zielpunkt, hoffentlich passt das.",0.3
+P2,Wer hat Orange?,0
+P3,"Ich hab Orange, aber wo ist der Punkt für Orange?",-0.3
+P5,"Ich seh nix für Orange, aber ich kann’s mal suchen.",-0.5
+P2,"Wir müssen aufpassen, nicht alles durcheinander zu bringen.",0.8
+P2,Wo bleibt der Gelbe?,0
+P5,"Der Gelbe ist sicher, aber der Punkt für Grün fehlt mir noch.",0
+P1,"Ah, Mist!",-0.2
+P1,Ich hab den Grünen am falschen Punkt abgelegt!,-0.5
+P3,"Geh einfach zurück, P1, das ist nicht so schlimm.",-0.3
+P2,Wer ist bei Blau?,0
+P2,Wir brauchen Blau noch.,0.2
+P5,"Ich seh Blau, aber bin nicht sicher, ob ich es bewegen kann.",-0.3
+P1,"Ich bring Blau jetzt zum Ziel, aber kann jemand den Grünen nehmen?",0
+P2,Ich nehm den Grünen!,1
+P2,"Ich schau mal, ob ich den Zielpunkt finde.",0
+P3,"Ich seh Gelb und Orange, aber ich kann den Zielpunkt nicht finden!",-0.5
+P1,"Ich bin bei Blau, was soll ich jetzt tun?",0
+P5,Bleib da!,0
+P5,Wir kommen gleich dazu.,1
+P2,"Ich bin bei Grün, bring es jetzt zum Ziel.",1
+P3,"Ich bleib bei Orange und such den Zielpunkt, keine Ahnung, wo der ist.",-0.2
+P5,"Die Zeit läuft, wir müssen uns beeilen!",-1
+P5,Wo sind die anderen?,0
+P1,"Ich bin bei Blau, es scheint richtig zu sein!",1
+P2,Gelb fehlt noch!,-0.2
+P2,"Wir müssen noch jemanden finden, der Gelb hat.",0
+P5,"Ich hab Gelb, aber ich weiß nicht, wo der Punkt ist!",-0.5
+P1,"Ich schau nochmal nach dem Grünen, vielleicht hilft das.",0
+P1,Ich kann schon wieder nicht richtig greifen.,-0.5
+P2,"Das ist auch nicht deine Farbe, oder?",-0.2
+P1,"Achso, ja stimmt.",1
+P1,Wer braucht Türkis?,0
+P5,Komm gleich.,0
+P1,"Ja, aber beeil dich.",-0.3
+P4,Hat wer Rot gesehen?,0
+P2,Ich seh grad nur Blau und Grün.,0
+P2,Wo ist Rot?,0
+P3,Ich hab Rot!,0.8
+P3,Aber ich kann den Zielpunkt nicht finden.,-0.7
+P1,Du hast Rot?,0
+P1,Wo bist du?,0
+P3,"Ich bin hier, bei Grün, aber ich seh den Punkt für Rot nicht.",-0.3
+P5,"Ich komm gleich, P1.",0
+P5,Warte!,-0.5
+P4,Was ist mit Türkis?,0
+P4,Hat das jemand?,0
+P1,"Ich hab Türkis, aber das gehört nicht zu mir.",-0.5
+P1,Wer braucht Türkis?,0
+P2,"Ich glaub, du kannst es trotzdem ablegen, solange du es in den Zielbereich bringst.",0.5
+P5,Ich bin da!,1
+P5,Ich hab Türkis jetzt.,0.2
+P5,Wo muss ich hin?,0
+P1,"Super, bring’s zum Ziel!",1
+P1,Ich bin bei Blau.,0.7
+P4,"Ich hab Rot, aber der Punkt ist mir nicht klar.",-0.5
+P4,Wo muss ich hin?,0
+P1,"Ich kann dir nicht genau sagen, wo der Punkt für Rot ist.",0
+P1,"Vielleicht hilft es, einfach weiterzugehen.",0.5
+P3,Ich schau mal nach Rot.,0
+P3,Vielleicht seh ich den Zielpunkt.,-0.2
+P5,Türkis ist jetzt am Ziel.,0
+P5,Was müssen wir noch tun?,0
+P2,"Ich hab Grün, aber ich seh den Punkt für Grün nicht.",-0.5
+P4,"Ich versuch mal, Rot zu finden.",0.5
+P4,"Wo bist du, P3?",0
+P3,"Ich bin direkt bei dir, bei Rot, aber der Zielpunkt… keine Ahnung, wo der ist!",-0.3
+P1,"Ich kann mir vorstellen, dass der Punkt weiter hinten ist.",0
+P1,"Versuch mal, ein Stück zu laufen.",0.7
+P5,"Warte, wer ist bei Blau?",0
+P5,Ich brauch Hilfe hier!,0.5
+P1,Ich bin bei Blau.,0.7
+P1,"Was brauchst du, P5?",0
+P5,Kannst du den Punkt für Blau finden?,0
+P5,Ich komm gerade nicht weiter.,-0.8
+P1,"Ich seh Blau, aber keine Ahnung, ob das der richtige Punkt ist.",-0.4
+P1,Vielleicht musst du dich ein bisschen bewegen.,0.2
+P3,"Ich hab Rot jetzt abgeliefert, was fehlt noch?",0.8
+P2,Noch Gelb!,1
+P2,Wer ist bei Gelb?,0
+P5,"Ich war bei Gelb, aber jetzt seh ich nichts mehr davon!",0.5
+P1,"Ich hab keine Ahnung, wo Gelb ist.",-0.5
+P1,Vielleicht ist es irgendwo da draußen.,0.5
+P2,"Ich lauf mal außen rum, vielleicht find ich was.",0.7
+P4,"Ich bin jetzt bei Blau, was muss ich hier tun?",0
+P1,Du bist bei Blau?,0
+P1,"Der Punkt ist direkt hier, du musst nur weitergehen.",0
+P5,Wer hat Gelb?,0
+P5,Wir brauchen dringend noch einen Gelben!,1
+P4,"Ich warte hier bei Blau, versuche aber, den Punkt zu finden.",0
+P2,"Ich geh jetzt zu Gelb, mal schauen, ob ich den Punkt finde.",0
+P1,Ich hab den Punkt für Blau jetzt auch gesehen!,0.8
+P1,Was müssen wir als nächstes tun?,0
+P5,"Ah, super!",0.85
+P5,Ich hab Gelb gefunden.,0
+P5,"Es ist hier, direkt bei mir.",0
+P2,"Okay, wir haben Gelb!",0.8
+P2,Ich bring’s jetzt zum Ziel!,1
+P1,"Ich schau mal nach Rot, vielleicht muss ich da noch was machen.",-0.2
+P1,Ich sehe Gelb.,0
+P1,Wer ist Gelb?,0
+P3,"Ich bin Gelb, aber ich sehe es nicht.",0
+P3,Kann mir jemand helfen?,1
+P5,"Moment, ich sehe es.",0
+P5,Gelb ist direkt neben mir.,0
+P5,"Ich winke, siehst du das?",0.7
+P3,"Ja, ich sehe dich!",0.8
+P3,"Okay, ich komme zu dir... Stopp, jetzt habe ich es!",-0.5
+P4,Gut.,0.7
+P4,"Beeil dich, wir haben nicht viel Zeit!",-0.3
+P3,Moment... Oh nein!,-0.7
+P3,Ich hab’s fallen gelassen.,0
+P3,"Einen Moment, ich nehme es wieder auf.",0.3
+P2,Ich sehe Rot.,0.7
+P2,Wer hat Rot?,0
+P1,Ich bin Rot.,0.5
+P1,Wo genau ist es?,0
+P4,Links von mir.,0
+P4,"Ich winke, siehst du mich?",0.8
+P1,"Ja, ich sehe dich.",1
+P1,Ich bin unterwegs...,0
+P1,"Okay, ich habe es.",0.8
+P5,Perfekt.,1
+P2,Was ist mit Blau?,-0.2
+P2,Ich sehe noch Blau.,0
+P4,"Ich bin Blau, aber ich sehe es nicht.",-0.3
+P5,"Blau ist in der Ecke, hinter Türkis.",0
+P5,Ich winke!,1
+P4,"Ah, danke.",0
+P4,Ich komme... Jetzt habe ich es.,0.8
+P2,"Äh, Moment... Warum bringst du das zu Lila?",0.2
+P4,"Oh, Mist, ich bin ja Blau!",-0.8
+P4,"Sorry, ich mache das schnell richtig.",0.8
+P3,Noch zwei Minuten!,0
+P3,Wer fehlt noch?,0
+P5,Grün fehlt.,-1
+P5,Wer ist Grün?,0
+P1,Ich bin Grün.,0.7
+P1,Wo ist der Würfel?,0
+P2,Vor mir!,0
+P2,Siehst du mich winken?,0
+P1,"Ja, alles klar.",1
+P1,"Einen Moment... Ah, ich hab’s nicht aufgenommen.",-0.7
+P1,Mist.,-0.5
+P1,Ich probiere es nochmal... Jetzt hab ich’s!,0.8
+P4,"Okay, Rot und Blau sind fertig.",0
+P4,Noch jemand Probleme?,0.2
+P3,"Gelb ist drin, aber... Ich glaube, ich habe es auf die falsche Seite gelegt.",0.2
+P3,"Kann jemand bestätigen, ob es richtig ist?",0
+P5,"Moment... Nein, Gelb ist falsch.",-0.2
+P5,Du musst es umdrehen.,0
+P3,"Alles klar, danke.",0
+P3,Ich korrigiere es!,0
+P2,Noch 30 Sekunden!,0
+P2,Was fehlt noch?,0
+P4,Lila!,0.5
+P4,Wer hat Lila?,0
+P3,"Ich bin Lila, aber ich sehe es nicht.",-0.8
+P1,Ich sehe Lila!,0
+P1,Es ist direkt vor mir.,0
+P1,Ich winke!,1
+P3,"Danke, ich bin unterwegs.",0.2
+P3,"Okay, ich habe es!",0.8
+P3,Das müsste es sein.,0
+P5,Noch 10 Sekunden!,0
+P5,Alles erledigt?,-0.2
+P1,Grün ist fertig.,0
+P4,Blau ist erledigt.,0
+P2,"Perfekt, Rot passt auch.",0.85
+P3,Gelb und Lila sind jetzt korrekt.,0
+P5,"Super, das war’s!",1
+P1,"Okay, wir müssen jetzt schnell arbeiten, wir haben nicht mehr viel Zeit.",-0.7
+P1,Ich sehe Rot.,0.7
+P1,Wer ist Rot?,0
+P2,"Ich bin Rot, aber ich stehe ein Stück weg.",0
+P2,Wo genau ist der Würfel?,-0.5
+P5,Ich sehe ihn!,0.3
+P5,Es ist direkt neben mir.,0
+P5,Ich winke!,1
+P2,"Ah, danke!",0.9
+P2,Ich komm rüber... Stopp!,-0.5
+P2,"Äh, Moment, ich hab den falschen Knopf gedrückt, einen Moment, ich versuch’s nochmal... okay, jetzt hab ich’s!",0.2
+P1,"Super, jetzt schnell zum Ziel.",1
+P1,Was fehlt noch?,0
+P4,"Ich hab Gelb, aber ich kann es gerade nicht sehen.",-1
+P4,Wer ist da mit mir?,0
+P3,Ich seh Gelb!,0
+P3,"Es ist direkt hinter dir, siehst du mich?",0
+P4,"Ja, danke!",1
+P4,Ich drehe mich...,0
+P4,"Okay, jetzt nehme ich es.",0
+P4,Wohin damit?,0
+P3,Bringe es zu Blau.,0
+P3,Wer hat Blau?,0
+P5,"Ich bin bei Blau, aber ich komme nicht richtig ran.",-0.6
+P5,Irgendwas blockiert mich.,-0.2
+P1,Ich sehe Blau!,-0.8
+P1,"Es ist hier, aber ich kann es nicht aufnehmen.",-0.5
+P1,"Du musst dich bewegen, ich kann dich nicht erreichen.",0
+P5,"Oh, Mist, warte, ich beweg mich... okay, jetzt sollte es klappen.",0.2
+P5,"Ah, perfekt!",1
+P5,Jetzt kann ich den Würfel nehmen.,0.85
+P2,Was passiert hier?,0
+P2,Warum hat niemand Lila gesehen?,-0.5
+P4,"Ich bin Lila, aber ich hab keine Ahnung, wo es ist.",-0.2
+P1,"Lila ist bei mir, direkt hier!",0.6
+P1,"Ich winke, aber ich kann es nicht aufnehmen.",0.5
+P4,"Ah, jetzt habe ich es.",0.8
+P4,Danke!,1
+P4,Ich bringe es zu Orange.,0.8
+P5,"Warte, du bist bei Orange, aber du bist nicht der richtige Spieler für diese Farbe!",-0.8
+P4,"Oh, Mist, du hast recht, ich bin Lila, warum bringe ich das hierher?",-0.5
+P4,Ich korrigiere es!,0
+P3,"Hört mal, wir haben hier noch die Herausforderung mit Gelb!",0.8
+P3,"Ich glaube, wir haben es zu früh abgelegt.",-0.5
+P2,Was meinst du?,0
+P3,"Ich hab Gelb zu früh abgelegt, aber es sollte eigentlich bei Grün abgelegt werden.",-0.3
+P5,"Oh, ich seh’s, Gelb ist definitiv falsch!",0.8
+P5,Ihr müsst es woanders hinbringen!,-0.8
+P1,"Okay, lass uns das schnell korrigieren.",0
+P1,Wer hilft mir?,1
+P2,"Noch drei Minuten, Leute!",0
+P2,Was ist mit Pink?,0
+P3,"Ich bin bei Pink, aber ich kann es nicht sehen.",-0.7
+P3,Wer hat es?,0
+P5,Pink ist rechts von mir.,0
+P5,"Ich winke, kannst du mich sehen?",0.5
+P3,"Ja, danke!",1
+P3,Ich komme...,0
+P3,"Moment, ich habe es... ach, Mist, was mache ich hier?",-0.9
+P3,"Ich sollte doch zu Grün gehen, nicht zu Pink!",0.8
+P2,"Es macht nichts, korrigiere es einfach schnell.",0
+P2,"Denk dran, du hast Blau schon abgegeben.",0
+P3,"Okay, danke.",0.75
+P3,"Ich hab’s, es ist jetzt richtig.",0.9
+P4,Gelb ist erledigt.,0
+P4,Was fehlt noch?,0
+P1,"Ich bin bei Grün, aber es gibt ein Problem.",0.3
+P1,"Ich komme nicht zum Ziel, irgendetwas blockiert.",-0.8
+P5,Ich schau mal.,0
+P5,"Hm, ich kann da auch nicht hin, es muss jemand anders helfen.",-0.6
+P2,"Moment, ich bewege mich, um dir zu helfen!",0.8
+P2,"Ich seh dich... okay, jetzt bist du frei.",0.7
+P1,"Danke, ich nehme es jetzt zum Ziel.",1
+P3,"Okay, ich bin fast da mit Lila... und jetzt kann ich nicht mehr sehen, wo es hin muss!",-0.7
+P4,Lila muss zu Orange!,0
+P3,"Oh, stimmt!",0.8
+P3,Ich war schon fast da.,0
+P3,Jetzt ist es richtig.,0
+P2,Noch zwei Minuten!,0
+P2,"Wir haben fast alles, was fehlt noch?",0.7
+P5,Was ist mit Blau?,-0.2
+P4,Blau ist fertig.,0.5
+P1,Rot?,-0.2
+P2,Ist auch erledigt!,0.5
+P3,Ich hab Lila korrekt abgelegt.,0.85
+P5,"Noch eine Minute, aber da fehlt noch etwas bei Gelb.",-0.3
+P1,Gelb ist bei Grün!,0
+P1,Ich kontrolliere es noch einmal.,0
+P2,"Okay, Gelb ist richtig platziert.",0.8
+P2,Wir sind fast durch!,1
+P4,"Ich geh nochmal sicher, dass nichts vertauscht wurde.",1
+P3,"Also, ich bin jetzt sicher, dass alles passt.",1
+P3,"Blau, Rot, Lila, und Pink sind alle da.",0
+P1,Und Grün und Gelb sind auch erledigt.,0.5
+P1,Wir haben es geschafft!,1
+P5,"Perfekt, das war’s.",0.95
+P5,Wir haben alles in der Zeit geschafft!,1
+P1,Ich seh Farben!,0.7
+P1,Wie sieht’s bei euch aus?,0.5
+P2,Ich seh nur Rot.,0
+P3,Hier ist Lila!,0
+P3,Wer ist Lila?,0
+P1,"Ah, genau, ich seh auch Lila!",0.8
+P3,"Ich bin Lila, wer sieht noch Lila?",0.5
+P4,"Ich bin auch Lila, hier, ich winke!",0.8
+P3,"Okay, ich komme zu dir.",0
+P3,Wo müssen wir hin?,0
+P4,"Du musst es zu Lila bringen, die Station ist hier vorne.",0
+P3,"Alles klar, ich leg's ab.",0.3
+P1,Ich seh Blau!,0.5
+P1,Wer ist Blau?,0
+P2,"Ich bin Blau, aber ich seh nix.",-0.7
+P2,Wo ist es?,0
+P4,"Blau ist hier bei mir, direkt vor mir, ich winke!",1
+P2,"Ah, danke!",0.9
+P2,Ich komme.,0
+P2,"Moment, ich hab’s, wohin soll ich?",0
+P1,Blau muss zu Blau!,0
+P1,Die Station ist da hinten.,0
+P2,"Verstanden, bringe es direkt dorthin.",0
+P5,Ich seh noch Gelb!,1
+P5,Wer ist Gelb?,0
+P2,"Ich bin Gelb, aber wo ist es?",0
+P1,Es ist direkt vor mir!,0.5
+P1,"Ich winke, siehst du mich?",0.8
+P2,"Ja, jetzt sehe ich es!",0.8
+P2,"Ich nehme es... Oh, Moment, was mache ich da?",0.7
+P2,Ich bringe es doch zu Blau.,0.7
+P4,"Nein, Gelb muss zu Gelb!",-0.8
+P4,Die Station ist bei mir.,0
+P2,"Oh, stimmt, danke!",1
+P2,Ich bringe es schnell zur Gelben Station.,0
+P3,Noch drei Minuten!,0
+P3,Was fehlt noch?,0
+P5,Was ist mit Pink?,0
+P1,"Ich seh Pink, aber es ist ziemlich weit weg.",-0.4
+P1,Wer hat Pink?,0
+P4,Ich habe Pink!,-0.8
+P4,Aber ich kann es nicht sehen.,-0.7
+P2,Es ist hier bei mir!,1
+P2,Ich winke.,-0.5
+P4,"Ah, danke!",0.9
+P4,Ich nehme es jetzt.,0.8
+P4,Wo muss es hin?,0
+P2,Pink muss zu Pink.,0
+P2,Die Station ist hier.,0
+P4,"Perfekt, ich bringe es sofort dorthin.",1
+P5,Was ist mit Rot?,0
+P5,"Ich seh Rot, aber wer hat es?",0
+P1,Ich bin bei Rot!,0.5
+P1,Ich hab's.,1
+P1,Wo soll es hin?,0.5
+P4,Rot muss zu Rot!,0.8
+P4,"Ich sehe die Station, bring es einfach zu mir.",0.8
+P1,"Alles klar, ich gehe direkt dorthin.",1
+P3,Noch 2 Minuten!,-0.2
+P3,Wer hat Lila?,0
+P4,"Ich habe Lila, aber es gibt ein Problem.",-0.5
+P4,Ich kann es nicht ablegen.,-0.2
+P1,Warum nicht?,0
+P4,Ich stehe auf der falschen Seite.,-0.3
+P1,"Okay, dreh dich einfach um und geh zur Lila-Station.",0
+P4,"Alles klar, ich habe es jetzt abgelegt.",0.8
+P2,"Gelb und Blau sind bei ihren Stationen, was fehlt noch?",0
+P5,Ich habe noch Lila und Pink!,0
+P5,Beide sind jetzt abgelegt.,0
+P1,Ich bin mit Rot und Blau auch fertig.,0.8
+P3,Ich habe Gelb und Grün abgelegt.,0.5
+P4,Noch 1 Minute!,0
+P4,Alles erledigt?,-0.2
+P1,"Ja, alles ist korrekt abgelegt!",0.8
+P2,Ich auch!,0.5
+P5,"Super, wir haben es geschafft.",1
+P1,"Perfekt, alle Farben sind abgelegt.",1
+P1,Wir haben es in der Zeit geschafft!,1
+P1,"Ich seh jetzt erstmal Blau, was sieht ihr so?",0.7
+P2,Ich seh nur Rot.,0
+P3,"Ich seh auch Blau, aber noch was anderes.",0.5
+P3,Irgendwas Grünes?,0
+P1,Grünes?,0
+P1,Ich seh kein Grün.,0
+P1,Was ist das?,0
+P4,Ich seh Pink.,0
+P4,Also ich seh Pink und Blau.,1
+P3,"Ah, dann bist du es, der Pink sieht.",0.5
+P3,Ich seh hier gerade Blau und … Orange?,0
+P1,Wer hat Orange?,0
+P5,"Ich, aber was mach ich jetzt?",0
+P4,Wer sieht Orange?,0
+P1,"Was ist da bei dir, P5?",0
+P5,"Ich bin bei Orange, aber ich kann nichts tun.",-0.8
+P5,Die Farbe wird mir nicht angezeigt.,-0.5
+P2,"Ich kann nur Rot bewegen, das ist so frustrierend.",-0.8
+P1,"Moment, bei mir gibt's hier auch nen Grünen!",0.5
+P3,Was?,0
+P3,Wo?,0
+P1,"Hier drüben, zwischen Blau und Orange.",0
+P4,"Ah, ich kann nicht sehen, was du siehst.",-0.6
+P4,Ich brauch Hilfe!,1
+P2,Ich bleib mal bei Rot.,0
+P2,Wo war der grüne?,0
+P1,"Ich hab den Grünen markiert, er ist direkt hier zwischen Blau und Orange.",0.5
+P3,"Ah, danke!",0.9
+P3,Ich schau dann mal dort vorbei.,0
+P5,"Ich bin jetzt auch bei Blau, kann ich was mit dir zusammen tun?",0.8
+P4,"Ich bin bei Blau, aber ich seh hier nichts anderes als Blau.",0
+P3,Wer ist der mit dem Grünen da?,0
+P3,"P5, bist du das?",0
+P5,"Ja, ich hab Grün, aber ich kann’s nicht bewegen.",0.5
+P1,"Ah, du siehst es, aber nicht als Spieler, das ist auch verwirrend.",-0.5
+P4,"Ich seh Orange, kannst du Orange sehen, P1?",0
+P1,"Ja, ich seh Orange, aber was jetzt?",-0.3
+P1,Soll ich es holen?,-0.1
+P3,"Moment, da ist noch was anderes!",0
+P3,Rote.,0
+P1,"Ah, du siehst Rot, dann lass uns Rot zusammen suchen.",0.8
+P4,"Wo ist der rote, P2?",0
+P2,"Ich bin hier, bei der roten Wand.",0
+P1,"Ich bleib hier bei Orange, wer kann mir helfen?",0
+P3,"Ich komm zu dir, P1.",0
+P3,Wo ist Orange?,0
+P5,"Ich kann nur rot und blau sehen, kein Orange.",0
+P4,"Du bist bei der Wand, P2?",0
+P4,Ich komm zu dir.,1
+P2,"Ja, und zeig auf Rot.",1
+P3,Ich seh jetzt auch Grün!,0.85
+P3,"Grün ist hier, hab es gefunden.",0.5
+P4,Wer hat das Grün?,0
+P3,"Ich hab das Grün, aber was mach ich damit?",-0.2
+P5,Ich seh da auch was Grünes.,0
+P5,"Warte, ich komm.",0
+P4,"Warte, ist es bei dir, P3?",-0.2
+P3,"Ja, ich seh's jetzt, aber ich kann es nicht bewegen.",-0.3
+P5,"Dann geh mal zum Punkt, wo wir Rot brauchen.",0
+P5,Ich bin schon fast da.,0.5
+P4,Wer bewegt Rot?,0
+P2,"Ich bin da, keine Sorge.",1
+P1,"Ich hab grad das Orange hier in der Nähe, aber bin nicht sicher, ob das passt.",-0.2
+P3,"Wir brauchen Blau, jemand Blau gesehen?",0.8
+P1,"Ich seh Blau, geh zum Blau.",0
+P5,"Hier bei Blau, was muss ich tun?",0
+P3,"Geh zu dem grünen Punkt, ich bleib bei Blau.",0.5
+P1,Ich bring jetzt Orange zu dem Zielpunkt.,0
+P5,"Okay, weiter mit Blau!",0
+P1,"Ich seh Blau, was sieht ihr?",0
+P2,"Nichts, ich seh nur Rot.",-0.6
+P3,Ich hab Grün hier!,0.5
+P3,Aber wo muss das hin?,-0.8
+P4,Ich seh Blau und noch was anderes.,0.8
+P4,Ist das Pink?,0
+P3,Pink?,0.2
+P3,"Nein, das ist Grün, was du siehst.",-0.8
+P4,"Ah, du hast recht, das Grün gehört zu dir, P3.",1
+P2,"Ah, ich steh bei Rot, was jetzt?",-0.7
+P1,Rot brauchen wir für den Zielpunkt.,0.8
+P1,Wo ist der Punkt für Rot?,0
+P5,Ich bin bei Orange und steh da einfach nur rum.,-0.2
+P5,Warum bin ich hier?,-0.2
+P1,"Ähm, du bist Orange, P5, du musst es zum Zielpunkt bringen.",0.5
+P5,"Oh, richtig!",0.95
+P5,Ich hab es echt verwechselt.,-0.3
+P5,"Warte, ich korrigiere das.",0.5
+P3,"Moment, ich hab den Grünen noch nicht bewegt.",0
+P3,Ich geh dann gleich dorthin.,0.5
+P4,Ich seh nichts mehr außer Blau.,-0.8
+P4,"Vielleicht ändert sich das noch, aber ich kann nichts tun.",-0.3
+P2,"Ich bin bei Rot und… okay, ich hab den Punkt, muss nur noch draufhauen.",0.8
+P1,"Wo ist der Zielpunkt für Blau, P4?",0
+P4,"Ich weiß es nicht genau, aber ich kann Blau grad auch nicht bewegen.",-0.5
+P4,Ich seh’s nur.,-0.5
+P1,"Okay, dann warte, ich schau nochmal.",-0.3
+P1,Vielleicht hilft dir das.,0.2
+P5,"Ah, ich steh bei Orange, warum bin ich nicht bei Blau?",-0.5
+P5,Ich muss zurück.,0
+P1,"Hast du den Punkt für Orange, P5?",0
+P5,"Ich glaub, ja.",1
+P5,Ich geh zurück.,0.5
+P2,"Ich glaube, ich bring Rot zum falschen Ziel.",-0.8
+P2,"Oh, dämlich von mir.",-0.8
+P1,Was?,0
+P1,"Du bist Rot, P2, der Punkt ist da hinten!",0.2
+P2,"Ahhh, ich hab’s gemerkt!",0.5
+P2,"Moment, ich korrigiere es.",0.2
+P3,"Ich hab das Grüne jetzt richtig abgelegt, aber ich kann es nicht mehr sehen.",-0.5
+P4,Wer ist bei Blau?,0
+P4,"Wir brauchen Blau, P1, du musst da schnell hin.",0.7
+P1,"Ich bin bei Blau, warte.",0.5
+P1,Ich lauf dorthin.,0
+P5,"Und ich… äh, ich steh bei Orange.",0
+P5,Kann jemand mir helfen?,0.5
+P4,"Ja, ich seh dich, P5, du musst zu dem Punkt da vorne.",0.8
+P1,"Ich bin jetzt bei Blau, was muss ich hier tun?",0
+P4,Bring es zum Zielpunkt!,0
+P4,"Schnell, wir haben nicht viel Zeit.",-1
+P5,"Mist, jetzt steh ich wieder bei Orange.",0
+P5,Wer ist bei Rot?,0
+P2,"Ich bin bei Rot, aber ich glaub, ich bring’s zum falschen Zielpunkt.",0.2
+P3,"Ich steh jetzt bei Grün, was genau machen wir damit?",0.5
+P1,"Wir müssen es zum Ziel bringen, aber wer kann das bewegen?",-0.5
+P3,"Ich kann’s nicht bewegen, es ist nicht bei mir.",-0.8
+P4,"Okay, ich korrigiere die Position von Blau, aber ist es bei mir?",-0.2
+P5,"Ich hab’s gemerkt, Orange gehört zu mir.",0.8
+P1,Wer ist jetzt bei Rot?,0
+P2,Ich!,0.95
+P2,"Aber was, wenn ich den Punkt verwechsel?",-0.2
+P1,"Mach’s einfach, P2!",0.8
+P4,"Ich seh wieder Blau, aber nichts anderes.",0
+P4,Ist das jetzt gut?,0
+P3,"Ich glaub, ich hab jetzt alles falsch gemacht, ich bin bei Grün und nicht bei Rot.",-0.3
+P1,"Okay, dann geh zu Rot.",0
+P1,Wir müssen das fixen!,0.7
+P1,Ich seh hier Blau und was ist das?,0
+P1,Ein Gelbes?,0
+P2,"Ich seh nichts anderes als Rot, wie sieht’s bei euch aus?",-0.8
+P3,"Ich seh auch Rot, aber noch was anderes, vielleicht Orange?",0
+P4,Ich seh Blau und… irgendwas anderes.,0.2
+P4,Grün?,0
+P1,Grün?,0.5
+P1,Wo genau?,-0.2
+P1,Ich seh’s nicht.,0
+P4,"Ja, direkt bei mir, aber ich kann es nicht bewegen.",0
+P4,Es gehört jemandem anders.,0
+P3,Ich bin bei Orange!,0.9
+P3,Was muss ich damit machen?,0
+P1,Orange?,0
+P1,"Du musst es zum Ziel bringen, P3!",-0.8
+P4,Wer ist bei Blau?,0
+P4,P5?,0
+P5,"Ich bin bei Blau, aber ich kann den Punkt nicht finden!",-0.2
+P5,Wo ist der Zielpunkt für Blau?,0
+P2,"Ich glaube, der Zielpunkt für Blau ist da hinten.",0
+P2,Ich komm mit.,0.75
+P1,"Ah, ich hab’s falsch gemacht!",-0.8
+P1,"Ich bin bei Gelb und nicht bei Blau, wie blöd von mir.",-0.8
+P3,Was machst du bei Gelb?,0
+P3,Du musst zurück!,-0.5
+P1,"Ja, ja, ich korrigiere das.",1
+P1,Ich geh zurück zu Blau.,0
+P5,"Ich steh bei Blau, aber ich kann das nicht bewegen, es wird mir nicht angezeigt.",-0.6
+P2,"Ich bringe Rot zum Ziel, was jetzt?",0
+P1,"Ähm, der Punkt für Rot ist da hinten!",-0.7
+P5,"Ich steh bei Blau, aber es tut sich nichts.",-0.5
+P5,Warum bewegt sich das nicht?,0
+P4,"Ich seh Blau auch, aber ich kann nichts tun.",-0.5
+P4,Vielleicht musst du es richtig anvisieren.,0.8
+P3,"Ich hab’s, das Orange muss zum Ziel!",1
+P3,Aber wo genau ist es?,-0.3
+P1,Orange ist direkt hier bei mir.,0
+P1,Ich bring’s zum Zielpunkt!,1
+P2,"Oh, ich war bei einem falschen Punkt, muss Rot woanders hin!",-0.5
+P3,"Was, wo bist du jetzt?",0
+P2,"Ich steh bei Grün, aber das ist nicht richtig.",-0.5
+P2,Ich bring’s zurück.,0.5
+P1,Wer ist bei Gelb?,0
+P5,"Ich bin bei Gelb, aber da ist kein Zielpunkt.",0
+P4,"Du musst weiterlaufen, vielleicht verschiebt sich der Zielpunkt.",0
+P3,Ich bring Orange hin.,0
+P3,Was macht Grün?,0
+P4,"Ich glaub, du musst Grün erstmal anvisieren.",0
+P1,"Ah, Mist!",-0.2
+P1,"Ich bin bei Blau, aber das gehört nicht zu mir!",-0.3
+P5,"Oh nein, das ist mein Fehler!",-0.8
+P5,Ich hab Blau verwirrt.,0
+P4,Was ist bei Rot?,0
+P4,Wer ist da?,0
+P2,"Ich bin bei Rot, aber ich hab keine Ahnung, ob das der richtige Zielpunkt ist.",0
+P3,Geh einfach mal weiter!,0
+P3,Wir müssen auf alles achten.,0
+P1,Wer ist jetzt bei Blau?,0
+P1,"Ich seh’s immer noch, aber ich kann’s nicht bewegen.",0.2
+P5,"Ich bin bei Blau, aber es passiert nichts.",-0.5
+P5,Vielleicht muss ich noch näher ran?,-0.2
+P2,Ich war bei Grün und hab’s jetzt zum richtigen Punkt gebracht.,0.8
+P1,Perfekt!,1
+P1,Ich korrigiere jetzt den Fehler bei Blau.,0.8
+P4,"Ich kann kein Gelb sehen, aber das müsste der Punkt für mich sein.",-0.5
+P5,"Ich steh immer noch bei Blau, aber ich frag mich, warum es nicht geht.",-0.7
+P3,"Ich bring Orange und… oh, ich hab’s wieder mit Rot verwechselt!",-0.2
+P3,Was mache ich nur?,0
+P1,"Ah, schnell, P3, bring Orange zum richtigen Punkt!",0.8
+P4,"Ich glaub, es gibt noch mehr Punkte, die sich ändern, also bleibt aufmerksam!",0.6
+P1,Ich seh hier Lila und… Grün?,0
+P1,Oder doch Gelb?,0
+P2,"Ich seh nur Rot, keine Ahnung, was hier los ist.",-0.8
+P3,"Ich hab auch Rot, aber da ist was anderes.",-0.2
+P3,Blau oder so?,0
+P4,Ich bin bei Blau!,0.5
+P4,Aber was ist mit Lila?,0
+P4,Hat jemand Lila gesehen?,0
+P1,Lila?,0
+P1,Ich seh grad nix Lila.,-0.3
+P1,"Du musst es irgendwo in der Nähe haben, P4.",-0.5
+P3,"Warte, da ist was Lilanes bei mir!",0.8
+P3,"Aber ich weiß nicht, ob ich das bewegen kann.",-0.6
+P2,"Ah, du bist das, P3!",0
+P2,"Ich seh nur Rot und es nervt, dass ich nicht weiterkomme.",-0.7
+P1,Wer ist bei Grün?,0
+P1,"Ich hab hier was Grünes, aber weiß nicht, wohin damit.",0
+P4,"Ich bin bei Blau, aber was machen wir mit Grün?",0
+P1,"Ich glaub, das Grün muss woanders hin.",0
+P1,"P2, kannst du dir das anschauen?",0
+P2,"Ah, du hast recht!",1
+P2,"Ich bin bei Rot, das hab ich doch gesagt, aber wo soll Grün hin?",-0.7
+P3,"Oh, das war mein Fehler, ich hab Grün eigentlich falsch markiert!",0.8
+P4,Wer hat Grün?,0
+P4,Wer ist bei Grün?,0
+P1,"P3, du hast Grün, oder?",0
+P3,"Ja, aber ich kann es nicht bewegen.",0.2
+P3,"Es ist so, als ob es mir nicht angezeigt wird!",-0.8
+P2,Ich kann das nicht fassen.,-0.8
+P2,Wo sind die Zielpunkte?,0
+P4,"Ich bin bei Blau, aber irgendwas stimmt hier nicht.",-0.5
+P4,Wo ist der Zielpunkt für Blau?,0
+P3,"Ich lauf mal zu Blau, vielleicht hilft das.",0.1
+P3,"P1, wo bist du jetzt?",0
+P1,"Ich bin bei Lila, aber keine Ahnung, ob das der richtige Punkt ist.",-0.3
+P4,Ich kann Lila immer noch nicht sehen!,-0.5
+P4,Was machen wir?,0
+P1,"Ah, Mist!",-0.2
+P1,Ich hab’s verwechselt.,-0.5
+P1,"Ich bin ja Rot, warum bring ich Lila hierhin?",-0.2
+P3,"Oh, du bist bei Rot?",0.3
+P3,Dann solltest du zu Rot gehen!,-0.8
+P1,"Ja, richtig, sorry, ich korrigiere das sofort.",-0.3
+P2,"Ich steh immer noch bei Rot, aber was soll ich jetzt machen?",-0.7
+P1,"Bleib bei Rot, das ist der Punkt für dich.",0.8
+P5,"Ich seh nur Blau, aber ich kann nichts tun.",-0.7
+P5,Was ist los?,-0.2
+P4,"Geh ein Stück weiter, P5, vielleicht wird der Punkt sichtbar, wenn du dich bewegst.",0.8
+P3,"Oh, ich glaub, das ist Lila!",1
+P3,"Moment, wo ist der Punkt für Lila?",0
+P4,"Ich bring jetzt Blau zum Ziel, aber wo muss es hin?",-0.3
+P1,Das Ziel für Blau ist da hinten.,0
+P1,Ich seh’s jetzt auch!,0.85
+P3,"Warte, ich steh bei Grün, aber das hilft uns nicht weiter, oder?",-0.7
+P4,"Wenn du bei Grün bist, dann bring es einfach zum Zielpunkt!",0.8
+P2,"Oh Mann, ich hab Rot wieder zum falschen Punkt gebracht.",-0.6
+P2,Wo muss ich jetzt hin?,0
+P1,"Du bist Rot, P2.",0.5
+P1,Der Punkt ist da drüben!,0.8
+P5,"Ah, ich steh bei Blau, und jetzt passiert wieder nichts!",0.8
+P3,"Geh einfach weiter, P5.",0
+P3,Vielleicht tut sich was.,-0.6
+P4,Wer ist bei Lila?,0
+P4,Kannst du den Punkt sehen?,0
+P3,"Ich bin bei Lila, aber ich kann es nicht bewegen.",0
+P1,"Ahhh, ich hab Lila wieder falsch abgelegt!",-0.8
+P1,Wo war der Punkt für Lila nochmal?,0
+P4,"Ich glaub, du bist nicht der Einzige, der hier Fehler macht.",0.8
+P4,Es geht gerade alles durcheinander!,-1
+P2,"Ich bring Rot zu einem Zielpunkt und hoffe, dass es das richtige ist!",1
+P3,"Ich steh jetzt bei Blau, aber das ist einfach nur verwirrend.",-0.6
+P1,Ich hol Lila jetzt.,-0.8
+P1,Wo ist der Zielpunkt?,0
+P4,Hier!,0
+P4,"Bring Lila hierhin, das ist der Punkt!",1
+P2,"P1, du hast recht, du musst das jetzt richtig machen!",0.8
+P5,"Ich hab Blau jetzt auch zum Ziel gebracht, aber ich warte auf eure Bestätigung.",0.5
+P4,"Perfekt, P5, jetzt können wir weitermachen!",1
+P1,Wieviel haben wir noch?,0
+P5,Keine Ahnung.,0
+P3,Es fehlen noch 4 Würfel.,-0.5
+P2,"Frank, du warst Gelb?",0
+P5,"Ja, was?",0.5
+P5,Siehst du welche?,0
+P2,"Nein, aber wir brauchen noch welche.",-0.3
+P2,Sieht jemand?,0
+P1,"Ich seh gerade nichts, außer Blau.",0.2
+P1,Kann mir jemand helfen?,1
+P3,"Ich hab Blau, aber keine Ahnung, wohin damit.",-0.5
+P2,"Wir brauchen Gelb, hat jemand Gelb gesehen?",0
+P5,"Ich dachte, ich hab Gelb, aber ich seh grad keinen Gelben mehr.",-0.7
+P1,"Ich bin bei Blau, aber ich glaub, ich hab den Punkt verpasst.",0.7
+P2,"Ah, ich hab einen Gelben gesehen!",0.8
+P2,Der ist hier bei mir.,-0.2
+P3,Du hast einen Gelben?,0
+P3,Wo genau?,-0.2
+P3,Ich seh nur Blau und Grün.,0
+P1,Ich seh einen Grünen hier.,0
+P1,Sollte der vielleicht zum Ziel?,-0.2
+P5,Grün gehört zu mir!,0.6
+P5,"Warte, ich korrigiere das.",0.5
+P2,"Frank, wo bist du mit Gelb?",0
+P5,"Ich bin noch am gleichen Punkt, aber ich kann den Zielpunkt für Gelb nicht finden.",-0.7
+P3,Vielleicht musst du ein Stück weiter gehen.,0
+P3,Versuch mal hier links!,0.7
+P1,"Warte, ich hab auch noch einen Grünen hier, aber keine Ahnung, was ich damit tun soll.",-0.5
+P2,"Es fehlen noch 4 Würfel, richtig?",0
+P2,Wir müssen uns beeilen.,0
+P5,"Ja, genau.",1
+P5,"Ich hab einen Gelben jetzt am Zielpunkt, aber wo sind die anderen?",-0.3
+P1,"Ich bringe den Grünen jetzt zum Zielpunkt, hoffentlich passt das.",0.3
+P2,Wer hat Orange?,0
+P3,"Ich hab Orange, aber wo ist der Punkt für Orange?",-0.3
+P5,"Ich seh nix für Orange, aber ich kann’s mal suchen.",-0.5
+P2,"Wir müssen aufpassen, nicht alles durcheinander zu bringen.",0.8
+P2,Wo bleibt der Gelbe?,0
+P5,"Der Gelbe ist sicher, aber der Punkt für Grün fehlt mir noch.",0
+P1,"Ah, Mist!",-0.2
+P1,Ich hab den Grünen am falschen Punkt abgelegt!,-0.5
+P3,"Geh einfach zurück, P1, das ist nicht so schlimm.",-0.3
+P2,Wer ist bei Blau?,0
+P2,Wir brauchen Blau noch.,0.2
+P5,"Ich seh Blau, aber bin nicht sicher, ob ich es bewegen kann.",-0.3
+P1,"Ich bring Blau jetzt zum Ziel, aber kann jemand den Grünen nehmen?",0
+P2,Ich nehm den Grünen!,1
+P2,"Ich schau mal, ob ich den Zielpunkt finde.",0
+P3,"Ich seh Gelb und Orange, aber ich kann den Zielpunkt nicht finden!",-0.5
+P1,"Ich bin bei Blau, was soll ich jetzt tun?",0
+P5,Bleib da!,0
+P5,Wir kommen gleich dazu.,1
+P2,"Ich bin bei Grün, bring es jetzt zum Ziel.",1
+P3,"Ich bleib bei Orange und such den Zielpunkt, keine Ahnung, wo der ist.",-0.2
+P5,"Die Zeit läuft, wir müssen uns beeilen!",-1
+P5,Wo sind die anderen?,0
+P1,"Ich bin bei Blau, es scheint richtig zu sein!",1
+P2,Gelb fehlt noch!,-0.2
+P2,"Wir müssen noch jemanden finden, der Gelb hat.",0
+P5,"Ich hab Gelb, aber ich weiß nicht, wo der Punkt ist!",-0.5
+P1,"Ich schau nochmal nach dem Grünen, vielleicht hilft das.",0
+P1,Ich seh schon Farben.,0.8
+P1,Wie siehts bei euch aus?,0
+P2,Ich seh nur Rot.,0
+P1,Genau ich seh auch Lila.,0
+P3,Wer ist Lila?,0
+P4,Ich bin Lila wer sieht Lila?,0
+P3,Ich sehe Lila.,0
+P4,Name?,0
+P4,Ola oder?,0.5
+P3,Ola oder Nadia es gibt einen Lilanen vor dem Lilanen draußen.,-0.5
+P4,Vor dem Lilanen draußen?,0
+P4,Okay dann komm ich zu dir.,0
+P2,Wollen wir dann mit Lila und Blau loslegen?,0.8
+P1,Genau würd ich sagen.,0
+P4,Dann würde ich jetzt mit dir anfangen Ola.,0.8
+P3,Ja ich schaue jetzt außen rum ob ich noch Lilane sehe.,0.7
+P1,Ich schau auch mit nach Lila wir können ja sonst nichts machen.,-0.2
+P2,Ich seh leider nur Rot.,0
+P1,Ah ich seh auch noch Rot.,-0.2
+P4,Wer hat Rot als Farbe?,0
+P5,Ich.,0
+P4,Okay Hans dann kannst du mit Lara arbeiten.,0
+P1,Ja.,1
+P2,Und mit mir auch.,0
+P2,Mit mir auch.,0
+P1,Ich gehe gerade bei Lila rein ich stehe bei Lila drinnen.,0
+P5,Okay.,0
+P5,Du stehst bei Lila drinnen?,0
+P1,Hier siehst du mich?,0
+P5,Gut ja ich seh dich.,0.8
+P1,Bist du bei Türkis?,0
+P5,Gut ja pass auf,0.5
+P1,Ja schau hier ist der Rote,0
+P5,Ja du bist Türkis oder?,0
+P1,Ich bin Türkis.,0
+P5,Weil da wo ich gerade stehe hinter dir der ist Türkis.,0
+P4,Ola siehst du Lila irgendwo?,0
+P3,Nein ich sehe einen Pinken.,-0.5
+P4,Pink siehst du?,0
+P3,Nein ich seh Lila und Pink.,0
+P1,Hans wo bist du denn?,-0.1
+P5,Ich bin hier,0
+P4,Okay also Lila Ola Lila,0
+P1,Was ist hier?,0
+P1,Bei welcher Farbe?,0
+P4,Lila wäre gut wenn du mir sagst.,0
+P3,uh huh.,0
+P5,Des bin ich,0
+P1,Ahh jetzt hab ich Lila.,0.8
+P4,Ich bin jetzt bei Rot.,0
+P2,Hans.,0
+P5,Ehhh,-0.2
+P2,Hans ich warte auf dich ich hab en Roten.,0.8
+P5,Okay.,0
+P4,Ola hast du nen Lilanen irgendwo?,0
+P3,Nein ich sehe jetzt Pinke und Rote.,-0.7
+P4,Ah du siehst Pink und Rot.,0
+P3,Lilane hab ich keins mehr,-0.8
+P4,Keine mehr okay,-0.5
+P5,Wo warn Rote?,-0.2
+P2,Ah der Rote drinnen bei Türkis.,0
+P2,Da steh ich und zeig drauf.,0
+P1,Hans ich seh da auch noch nen Roten ich bleib einfach mal hier stehen.,0
+P5,Ja.,1
+P4,Ich seh keine Farben anscheinend ändert sich das auch aber jetzt kann ich Blau sehen.,0.3
+P4,Und Türkis.,-0.5
+P3,Ohh Okay öööhh ma Herr kannst du mir sagen ob du Blau siehst.,0
+P4,Ja Ola?,0
+P4,Das bist du oder?,0
+P3,Ja,1
+P4,Ich steh hier draußen zwischen dem Rot und dem öhhhhh.,-0.5
+P1,Hier Hans ich bin hier bei Orange,0
+P5,Wie.,0
+P4,Pinken.,0.2
+P3,Ja Ja und das.,0.5
+P4,Genau und ich hab hier ne Blau.,0.5
+P3,Okay gut danke.,0.5
+P4,Ssssehr gut.,1
+P4,Ich laufe rum ob ich schau ob ich Blauen sehe.,0.8
+P1,Hans,0
+P5,Ja,1
+P1,Ich seh danach noch nen Roten.,0
+P5,Wie wo bist.,0
+P1,Drin bei Lila.,0.8
+P4,Ich hab hier nochn Blauen gerade wenn du fertig bist.,0
+P3,Ja?,1
+P4,Wenn du rechts schaust.,0
